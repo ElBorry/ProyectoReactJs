@@ -5,7 +5,6 @@ El mejor merchandising del equipo oficial de ToF
 Proyecto final de CoderHouse hecho en React, se baso en realizar la paginal del Ecommerce para vender el merchandising oficial del equipo latino.
 
 <h2> Clonar el repositorio desde GitHub. </h2>
-https://github.com/luqpizarro/limbohatsreact.git
 
 
 <h2> Instalaciones necesari</h2>
