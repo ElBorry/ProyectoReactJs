@@ -8,8 +8,8 @@ Proyecto final de CoderHouse hecho en React, se baso en realizar la paginal del 
 
 
 <h2> Instalaciones necesarias </h2>
->[!IMPORTANT]
->Instalar las dependencias usando npm o yarn.
+>[!IMPORTANT
+>Instalar las dependencias usando npm o yarn.]
 
 Bootstrap:
 $ npm i bootstrap@5.3.2
