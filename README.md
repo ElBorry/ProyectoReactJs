@@ -11,8 +11,9 @@ Proyecto final de CoderHouse hecho en React, se baso en realizar la paginal del 
 
 Instalar las dependencias usando npm o yarn.
 
-Bootstrap:
+```Bootstrap:
 $ npm i bootstrap@5.3.2
+```
 
 Firebase:
 $ npm init
