@@ -20,7 +20,8 @@ $ npm init
 $ npm install --save firebase
 ```
 
-```<h2> Para levantar el proyecto se debe ejecutar los siguientes comandos </h2>
+<h2> Para levantar el proyecto se debe ejecutar los siguientes comandos </h2>
+```
 npm install
 npm run dev
 ```
