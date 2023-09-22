@@ -28,7 +28,7 @@ npm run dev
 
 <h2>Para el correcto funcionamiento, es necesario tener seteadas las variables de entorno en el archivo .env. Las siguientes variables </h2>
 
-* VITE_API_KEY: la API key de Firebase.
+* <code> VITE_API_KEY </code> : la API key de Firebase.
 * VITE_AUTH_DOMAIN: el dominio de autenticación de Firebase.
 * VITE_PROJECT_ID: el ID del proyecto de Firebase.
 * VITE_STORAGE_BUCKET: el bucket de almacenamiento de Firebase.
