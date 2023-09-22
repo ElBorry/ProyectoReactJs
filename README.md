@@ -15,13 +15,15 @@ Instalar las dependencias usando npm o yarn.
 $ npm i bootstrap@5.3.2
 ```
 
-Firebase:
+```Firebase:
 $ npm init
 $ npm install --save firebase
+```
 
-<h2> Para levantar el proyecto se debe ejecutar los siguientes comandos </h2>
+```<h2> Para levantar el proyecto se debe ejecutar los siguientes comandos </h2>
 npm install
 npm run dev
+```
 
 <h2>Para el correcto funcionamiento, es necesario tener seteadas las variables de entorno en el archivo .env. Las siguientes variables </h2>
 
